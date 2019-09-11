@@ -55,23 +55,25 @@ image::screenshots/editor-overview.png[Editor]
 
 This is the main screen for sketching.
 
-When drawing your sketch, use *Pen* , when manipulating them, use *Finger*.
+When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 
 
 ==== Manipulating
 
-* Draw strokes ( *Stylus* )
-* Erase strokes ( *Stylus* )
+* Draw strokes ( _Pen_ )
+* Erase strokes ( _Pen_ )
 
-* Zoom and Scroll (*Two Fingers*)
-* Zoom in (*Double Tap with One Finger*)
-* Make Group (*Finger*)
-* Start Group : If a group were stared, it was used as thumbnail image of the page in file manager.
-* Move Group (*Finger*)
-* Resize Group (*Finger*)
-* Ungroup (*Finger*)
-* Delete Group (*Finger*)
+* Zoom and Scroll ( _Two Fingers_ )
+* Zoom in ( _Double Tap with One Finger_ )
+* image:icons/group.svg[Group] Make Group ( _Finger_ )
+* image:icons/star.svg[Group] Start Group : Make a group stared.
+* link:#MakeGroup[Make Group] ( _Finger_ )
+* Resize Group ( _Finger_ )
+* image:icons/ungroup.svg[Ungroup] Ungroup 
+* image:icons/delete.svg[Delete] Delete Group 
 
+[NOTE]
+A stared group is used as the page thumbnail in file manager.
 
 ==== ActionBar
 
@@ -86,25 +88,25 @@ When drawing your sketch, use *Pen* , when manipulating them, use *Finger*.
 
 image:icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
 
-It's located on the top left.
+It's located at the top left.
 
 
 ==== Edit Toolbar
 
 image:icons/edit-toolbar.svg[Edit Toolbar]
 
-It's located on the bottom left.
+It's located at the left bottom. 
 
 * image:icons/undo.svg[Undo]Undo
 * image:icons/redo.svg[Redo]Redo
 * image:icons/delete.svg[Delete]Delete : Delete selected group
 * image:icons/group.svg[Group]Group / image:icons/ungroup.svg[Ungroup]Ungroup 
-* image:icons/star.svg[Star]Star : Make group start
+* image:icons/star.svg[Star]Star : Make group stared
 
 
 ==== Clipboard Panel
 
-It's located on the bottom right.
+It's located at the right bottom.
 
 * image:icons/clipboard.svg[Clipboard]Clipboard
 
@@ -116,12 +118,13 @@ image::screenshots/clipboard-panel.png[Clipboard Panel]
 ==== Group Manipulation 
 
 
+[[MakeGroup]]
 ===== Make Group
 
 video::videos/grouping.mp4[Make Group]
 
-Lassoing some strokes with finger, you can create group.  +
-And lassoing some groups with finger, also you can create group's group.
+Lassoing some strokes with finger, it's generated a group.  +
+And also lassoing some groups ( and some strokes ) with finger, also it's generated a group's group.
 
 Instruction:
 
