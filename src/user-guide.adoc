@@ -110,14 +110,15 @@ It's located on the bottom right.
 
 Tap the icon and show clipboard panel, and tap again hide it.
 
-image:screenshots/clipboard-panel.png[Clipboard Panel]
+image::screenshots/clipboard-panel.png[Clipboard Panel]
 
 
 ==== Group Manipulation 
 
 
 ===== Make Group
-image here
+
+video::videos/grouping.mp4[]
 
 Lassoing some strokes with finger, you can create group.  +
 And lassoing some groups with finger, also you can create group's group.
