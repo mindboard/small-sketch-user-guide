@@ -1,4 +1,4 @@
-= Graph Paper User Guide
+= Small Sketch User Guide
 MindBoard Apps <https://www.mindboardapps.com/>
 :doctype: book
 :source-highlighter: coderay
