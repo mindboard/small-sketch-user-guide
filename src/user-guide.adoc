@@ -123,8 +123,8 @@ image::screenshots/clipboard-panel.png[Clipboard Panel]
 
 video::videos/grouping.mp4[Make Group]
 
-Lassoing some strokes with finger, it's generated a group.  +
-And also lassoing some groups ( and some strokes ) with finger, also it's generated a group's group.
+Lassoing some strokes with finger, a new group is created.  +
+And also lassoing some groups ( and some strokes ) with finger, also a new group's group is created.
 
 Instruction:
 
