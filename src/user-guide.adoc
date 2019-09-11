@@ -118,7 +118,7 @@ image::screenshots/clipboard-panel.png[Clipboard Panel]
 
 ===== Make Group
 
-video::videos/grouping.mp4[]
+video::videos/grouping.mp4[Make Group]
 
 Lassoing some strokes with finger, you can create group.  +
 And lassoing some groups with finger, also you can create group's group.
