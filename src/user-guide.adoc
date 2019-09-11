@@ -60,13 +60,13 @@ When drawing your sketch, use *Pen* , when manipulating them, use *Finger*.
 
 ==== Manipulating
 
-* Sketching strokes ( *Stylus* )
-* Erasing strokes ( *Stylus* )
+* Draw strokes ( *Stylus* )
+* Erase strokes ( *Stylus* )
 
 * Zoom and Scroll (*Two Fingers*)
 * Zoom in (*Double Tap with One Finger*)
 * Make Group (*Finger*)
-* Start Group 
+* Start Group : If a group were stared, it was used as thumbnail image of the page in file manager.
 * Move Group (*Finger*)
 * Resize Group (*Finger*)
 * Ungroup (*Finger*)
@@ -75,28 +75,92 @@ When drawing your sketch, use *Pen* , when manipulating them, use *Finger*.
 
 ==== ActionBar
 
-* image:icons/finder.svg[Go To File Manager] Go to File Manager
-* image:icons/add.svg[New Document] Add New Document
-* image:icons/share.svg[Export Document] Export current active document as PDF
+* image:icons/go-finder.svg[Go To File Manager] Go to File Manager
+* image:icons/add.svg[New Page] Add New Page
+* image:icons/share.svg[Export Page] Export current active page as PDF
 * image:icons/fullscreen.svg[Fullscreen] Fullscreen
 
 
 
 ==== Pen and Eraser Toolbar
 
-image::screenshots/pen-and-eraser-tooler.png[Pen and Eraser Toolbar]
+image:icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
 
-There is Pen and Eraser Toolbar on the top left.
+It's located on the top left.
 
 
 ==== Edit Toolbar
 
-image::screenshots/edit-toolbar.png[Edit Toolbar]
+image:icons/edit-toolbar.svg[Edit Toolbar]
 
-* Group ( Convert a temporary group to a persistent group ) / Ungroup
-* Copy group
-* Delete ( Delete group or link )
-* Undo
-* Redo
+It's located on the bottom left.
 
+* image:icons/undo.svg[Undo]Undo
+* image:icons/redo.svg[Redo]Redo
+* image:icons/delete.svg[Delete]Delete : Delete selected group
+* image:icons/group.svg[Group]Group / image:icons/ungroup.svg[Ungroup]Ungroup 
+* image:icons/star.svg[Star]Star : Make group start
+
+
+==== Clipboard Panel
+
+It's located on the bottom right.
+
+* image:icons/clipboard.svg[Clipboard]Clipboard
+
+Tap the icon and show clipboard panel, and tap again hide it.
+
+image:screenshots/clipboard-panel.png[Clipboard Panel]
+
+
+==== Group Manipulation 
+
+
+===== Make Group
+image here
+
+Lassoing some strokes with finger, you can create group.  +
+And lassoing some groups with finger, also you can create group's group.
+
+Instruction:
+
+1. Lasso some strokes and make them temporary group.
+2. Tap image:icons/group.svg[group] icon.
+
+
+===== Make Ungroup
+
+Instruction:
+
+1. Tap a group with finger and make it selected. 
+2. Tap image:icons/ungroup.svg[ungroup] icon.
+
+
+===== Move Group
+
+Instruction:
+
+1. Tap a group with finger and make it selected.
+2. Drag it with finger.
+
+
+===== Resize Group
+
+Instruction:
+
+1. Tap a group with finger and make the group selected.
+2. Drag the resize handle of the group in the right bottom.
+
+
+===== Copy Strokes / Copy Group
+
+It's impossible to copy them directly.
+But using with Clipboard Panel, it's possible.
+
+Instruction:
+
+1. Tap image:icons/clipboard.svg[clipboard] icon and open clipboard panel.
+2. Tap a group with finger and make it selected. / Lasso strokes and make theme temporary group.
+3. Drag and Drop it into clipboard panel.
+4. Drag and Drop it from clipboard panel to editor canvas again.
 
