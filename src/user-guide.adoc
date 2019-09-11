@@ -1,0 +1,102 @@
+
+= Small Sketch User Guide
+
+== Introduction
+
+image::screenshots/small-sketch-example.png[Small Sketch]
+
+=== Overview
+
+Small Sketch is a simple handwriting application for Android tablets and Chromebook with S Pen support.
+
+
+=== Key Features
+
+* PDF Export
+* Intuitive Interaction Design
+* No Frills UI
+
+
+=== Requirements
+
+* Android 4.4 Kitkat or newer
+* An Android tablet with S-Pen or Digitizer Stylus.
+
+
+
+=== Installation
+
+Get https://play.google.com/store/apps/details?id=com.mindboardapps.app.smallsketch[Small Sketch for S-Pen] app on Google Play.
+
+
+=== Getting help
+
+If you have any questions, please https://www.mindboardapps.com/contact.html[make contact].
+And also your feedback will be much appreciated.
+
+To get update information, see 
+https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
+
+
+== Using Small Sketch
+
+=== Overview
+
+This app has two kinds of screen.
+
+- (1) Editor
+- (2) File Manager
+
+
+
+=== (1) Editor
+
+image::screenshots/editor-overview.png[Editor]
+
+This is the main screen for sketching.
+
+When drawing your sketch, use *Pen* , when manipulating them, use *Finger*.
+
+
+==== Manipulating
+
+* Sketching strokes ( *Stylus* )
+* Erasing strokes ( *Stylus* )
+
+* Zoom and Scroll (*Two Fingers*)
+* Zoom in (*Double Tap with One Finger*)
+* Make Group (*Finger*)
+* Start Group 
+* Move Group (*Finger*)
+* Resize Group (*Finger*)
+* Ungroup (*Finger*)
+* Delete Group (*Finger*)
+
+
+==== ActionBar
+
+* image:icons/finder.svg[Go To File Manager] Go to File Manager
+* image:icons/add.svg[New Document] Add New Document
+* image:icons/share.svg[Export Document] Export current active document as PDF
+* image:icons/fullscreen.svg[Fullscreen] Fullscreen
+
+
+
+==== Pen and Eraser Toolbar
+
+image::screenshots/pen-and-eraser-tooler.png[Pen and Eraser Toolbar]
+
+There is Pen and Eraser Toolbar on the top left.
+
+
+==== Edit Toolbar
+
+image::screenshots/edit-toolbar.png[Edit Toolbar]
+
+* Group ( Convert a temporary group to a persistent group ) / Ungroup
+* Copy group
+* Delete ( Delete group or link )
+* Undo
+* Redo
+
+

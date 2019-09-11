@@ -1,0 +1,16 @@
+= Graph Paper User Guide
+MindBoard Apps <https://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: images
+
+This document explains Small Sketch Version 1.5.6.
+
+[NOTE]
+link:small-sketch-user-guide.pdf[User Guide (PDF format)]
+
+include::user-guide.adoc[]
