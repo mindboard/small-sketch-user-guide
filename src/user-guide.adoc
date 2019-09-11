@@ -7,7 +7,7 @@ image::screenshots/small-sketch-example.png[Small Sketch]
 
 === Overview
 
-Small Sketch is a simple handwriting application for Android tablets and Chromebook with S Pen.
+Small Sketch is a simple handwriting application for Android tablets and Chromebooks.
 
 
 === Key Features
@@ -20,7 +20,7 @@ Small Sketch is a simple handwriting application for Android tablets and Chromeb
 === Requirements
 
 * Android 4.4 Kitkat or newer
-* An Android tablet with S-Pen or Digitizer Stylus.
+* *S Pen* or Digitizer Stylus.
 
 
 
