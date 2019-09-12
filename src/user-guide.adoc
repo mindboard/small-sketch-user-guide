@@ -77,6 +77,8 @@ A stared group is used as the page thumbnail in file manager.
 
 ==== ActionBar
 
+image::icons/editor-actionbar.svg[Editor Actionbar]
+
 * image:icons/go-finder.svg[Go To File Manager] Go to File Manager
 * image:icons/add.svg[New Page] Add New Page
 * image:icons/share.svg[Export Page] Export current active page as PDF
@@ -86,16 +88,17 @@ A stared group is used as the page thumbnail in file manager.
 
 ==== Pen and Eraser Toolbar
 
-image:icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
+image::icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
 
-It's located at the top left.
+It's located at the top left of screen.
 
 
+[[EditToolbar]]
 ==== Edit Toolbar
 
-image:icons/edit-toolbar.svg[Edit Toolbar]
+image::icons/edit-toolbar.svg[Edit Toolbar]
 
-It's located at the left bottom. 
+It's located at the left bottom of screen. 
 
 * image:icons/undo.svg[Undo]Undo
 * image:icons/redo.svg[Redo]Redo
@@ -123,8 +126,9 @@ image::screenshots/clipboard-panel.png[Clipboard Panel]
 
 video::videos/grouping.mp4[Make Group]
 
-Lassoing some strokes with finger, a new group is created.  +
-And also lassoing some groups ( and some strokes ) with finger, also a new group's group is created.
+Lassoing some strokes with finger, a temporary group is created.  +
+And also lassoing some groups ( and some strokes ) with finger, a temporary group's group is created.  +
+It's possible to change a temporary group with a persisitent group with tapping image:icons/group.svg[group] icon on link:#EditToolbar[Edit Toolbar]. 
 
 Instruction:
 
