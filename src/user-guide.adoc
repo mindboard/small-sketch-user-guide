@@ -124,7 +124,7 @@ image::screenshots/clipboard-panel.png[Clipboard Panel]
 [[MakeGroup]]
 ===== Make Group
 
-video::videos/grouping.mp4[Make Group]
+video::videos/create-group.mp4[Make Group]
 
 Lassoing some strokes with finger, a temporary group is created.  +
 And also lassoing some groups ( and some strokes ) with finger, a temporary group's group is created.  +
@@ -145,6 +145,8 @@ Instruction:
 
 
 ===== Move Group
+
+video::videos/move-group.mp4[Move Group]
 
 Instruction:
 
