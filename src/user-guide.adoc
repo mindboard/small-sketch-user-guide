@@ -167,7 +167,7 @@ But using with Clipboard Panel, it's possible.
 
 Instruction:
 
-1. Tap image:icons/clipboard.svg[clipboard] icon and open clipboard panel.
+1. Tap image:icons/clipboard.svg[clipboard] icon and clipboard panel is shown.
 2. Tap a group with finger and make it selected. / Lasso strokes and make theme temporary group.
 3. Drag and Drop it into clipboard panel.
 4. Drag and Drop it from clipboard panel to editor canvas again.
