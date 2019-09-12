@@ -68,7 +68,8 @@ When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 * image:icons/group.svg[Group] Make Group ( _Finger_ )
 * image:icons/star.svg[Group] Start Group : Make a group stared.
 * link:#MakeGroup[Make Group] ( _Finger_ )
-* Resize Group ( _Finger_ )
+* link:#MoveGroup[Move Group] ( _Finger_ )
+* link:#ResizeGroup[Resize Group] ( _Finger_ )
 * image:icons/ungroup.svg[Ungroup] Ungroup 
 * image:icons/delete.svg[Delete] Delete Group 
 
@@ -144,6 +145,7 @@ Instruction:
 2. Tap image:icons/ungroup.svg[ungroup] icon.
 
 
+[[MoveGroup]]
 ===== Move Group
 
 video::videos/move-group.mp4[Move Group]
@@ -154,7 +156,10 @@ Instruction:
 2. Drag it with finger.
 
 
+[[ResizeGroup]]
 ===== Resize Group
+
+video::videos/resize-group.mp4[Resize Group]
 
 Instruction:
 
