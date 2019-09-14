@@ -65,11 +65,11 @@ When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 
 * Zoom and Scroll ( _Two Fingers_ )
 * Zoom in ( _Double Tap with One Finger_ )
-* image:icons/group.svg[Group] Make Group ( _Finger_ )
-* image:icons/star.svg[Group] Start Group : Make a group stared.
-* link:#MakeGroup[Make Group] ( _Finger_ )
+* image:icons/group.svg[Group] link:#MakeGroup[Make Group] ( _Finger_ )
+* image:icons/star.svg[Group] Star Group : Make a group stared.
 * link:#MoveGroup[Move Group] ( _Finger_ )
 * link:#ResizeGroup[Resize Group] ( _Finger_ )
+* link:#CopyGroup[Copy Strokes / Copy Group] ( _Finger_ )
 * image:icons/ungroup.svg[Ungroup] Ungroup 
 * image:icons/delete.svg[Delete] Delete Group 
 
@@ -166,8 +166,10 @@ Instruction:
 1. Tap a group with finger and make the group selected.
 2. Drag the resize handle of the group in the right bottom.
 
-
+[[CopyGroup]]
 ===== Copy Strokes / Copy Group
+
+video::videos/copy-group-1.mp4[Copy Group]
 
 It's impossible to copy them directly.
 But using with Clipboard Panel, it's possible.
