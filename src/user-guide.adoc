@@ -58,7 +58,7 @@ This is the main screen for sketching.
 When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 
 
-==== Manipulating
+==== Features
 
 * Draw strokes ( _Pen_ )
 * Erase strokes ( _Pen_ )
@@ -187,6 +187,29 @@ Instruction:
 
 image::screenshots/finder-overview.png[File Manager]
 
+This is the file management screen.
+
+==== Features
+
+* Pin: Keep items to the top
+* Single Tap Item: Select the item
+* Double Tap Item: Open the item
+
+
+==== ActionBar
+
+* image:icons/go-back-editor.svg[Go Back To Editor] Go back to Editor
+* image:icons/add.svg[New Page] Add New Page
+* image:icons/trash.svg[Trash Page] Trash Page: Move page into trash folder
+* image:icons/menu.svg[Menu] Menu
+** image:icons/cloud-download.svg[Download] Download Page
+** image:icons/cloud-upload.svg[Upload] Upload Page
+
+
+==== SideBar
+
+* image:icons/folder-primary.svg[Primary Folder] Primary Folder: Show Primary Page Items
+* image:icons/folder-trashcan.svg[Trashcan Folder] Trashcan Folder: Show Trashed Page Items
 
 
 
