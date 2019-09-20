@@ -90,7 +90,7 @@ image::icons/editor-actionbar.svg[Editor Actionbar]
 
 image::icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
 
-It's located at the top left of screen.
+It's in the top left of screen.
 
 
 [[EditToolbar]]
@@ -98,7 +98,7 @@ It's located at the top left of screen.
 
 image::icons/edit-toolbar.svg[Edit Toolbar]
 
-It's located at the left bottom of screen. 
+It's in the left bottom of screen. 
 
 * image:icons/undo.svg[Undo]Undo
 * image:icons/redo.svg[Redo]Redo
@@ -109,7 +109,7 @@ It's located at the left bottom of screen.
 
 ==== Clipboard Panel
 
-It's located at the right bottom.
+It's in the right bottom.
 
 * image:icons/clipboard.svg[Clipboard]Clipboard
 
