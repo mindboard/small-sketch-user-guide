@@ -65,12 +65,11 @@ When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 
 * Zoom and Scroll ( _Two Fingers_ )
 * Zoom in ( _Double Tap with One Finger_ )
-* image:icons/group.svg[Group] link:#MakeGroup[Make Group] ( _Finger_ )
-* image:icons/star.svg[Group] Star Group : Make a group stared.
+* image:icons/group.svg[Group] link:#MakeGroup[Make Group] ( _Finger_ ) / image:icons/ungroup.svg[Ungroup] Ungroup 
+* image:icons/star.svg[Group] Star Group : _Make a group stared so that this group is as page thumbnail symbol in link:#FileManager[File Manager]._
 * link:#MoveGroup[Move Group] ( _Finger_ )
 * link:#ResizeGroup[Resize Group] ( _Finger_ )
 * link:#CopyGroup[Copy Strokes / Copy Group] ( _Finger_ )
-* image:icons/ungroup.svg[Ungroup] Ungroup 
 * image:icons/delete.svg[Delete] Delete Group 
 
 [NOTE]
@@ -198,9 +197,11 @@ This is the file management screen.
 
 ==== ActionBar
 
+image::icons/finder-actionbar.svg[Finder Actionbar]
+
 * image:icons/go-back-editor.svg[Go Back To Editor] Go back to Editor
 * image:icons/add.svg[New Page] Add New Page
-* image:icons/trash.svg[Trash Page] Trash Page: Move page into trash folder
+* image:icons/trash.svg[Trash Page] Trash Page: _Move page into trash folder_
 * image:icons/menu.svg[Menu] Menu
 ** image:icons/cloud-download.svg[Download] Download Page
 ** image:icons/cloud-upload.svg[Upload] Upload Page
@@ -208,8 +209,8 @@ This is the file management screen.
 
 ==== SideBar
 
-* image:icons/folder-primary.svg[Primary Folder] Primary Folder: Show Primary Page Items
-* image:icons/folder-trashcan.svg[Trashcan Folder] Trashcan Folder: Show Trashed Page Items
+* image:icons/folder-primary.svg[Primary Folder] Primary Folder: _Show Primary Page Items_
+* image:icons/folder-trashcan.svg[Trashcan Folder] Trashcan Folder: _Show Trashed Page Items_
 
 
 
@@ -217,7 +218,7 @@ This is the file management screen.
 
 ==== Ssf2img
 
-Ssf2img is a support tool for Small Sketch file (SSF). You can convert SSF file into SVG,PNG and PDF.
+Ssf2img is a support tool for Small Sketch file (SSF). You can convert SSF file into SVG,PNG and PDF on Windows/MacOS/Linux.
 
 For more details:
 https://github.com/mindboard/ssf2img
