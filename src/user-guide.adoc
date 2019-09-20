@@ -44,11 +44,11 @@ https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard
 
 This app has two kinds of screen.
 
-- (1) Editor
-- (2) File Manager
+- (1) link:#Editor[Editor]
+- (2) link:#FileManager[File Manager]
 
 
-
+[[Editor]]
 === (1) Editor
 
 image::screenshots/editor-overview.png[Editor]
@@ -181,3 +181,20 @@ Instruction:
 3. Drag and Drop it into clipboard panel.
 4. Drag and Drop it from clipboard panel to editor canvas again.
 
+
+[[FileManager]]
+=== (2) File Manager
+
+image::screenshots/finder-overview.png[File Manager]
+
+
+
+
+=== Additinal Information
+
+==== Ssf2img
+
+Ssf2img is a support tool for Small Sketch file (SSF). You can convert SSF file into SVG,PNG and PDF.
+
+For more details:
+https://github.com/mindboard/ssf2img
