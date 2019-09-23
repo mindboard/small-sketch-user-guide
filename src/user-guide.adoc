@@ -3,7 +3,7 @@
 
 == Introduction
 
-image::screenshots/small-sketch-example.png[Small Sketch]
+image::screenshots/small-sketch-example.png[alt=Small Sketch, width=600]
 
 === Overview
 
@@ -51,7 +51,7 @@ This app has two kinds of screen.
 [[Editor]]
 === (1) Editor
 
-image::screenshots/editor-overview.png[Editor]
+image::screenshots/editor-overview.png[alt=Editor, width=600]
 
 This is the main screen for sketching.
 
@@ -184,7 +184,7 @@ Instruction:
 [[FileManager]]
 === (2) File Manager
 
-image::screenshots/finder-overview.png[File Manager]
+image::screenshots/finder-overview.png[alt=File Manager, width=600]
 
 This is the file management screen.
 
@@ -209,16 +209,19 @@ image::icons/finder-actionbar.svg[Finder Actionbar]
 
 ==== SideBar
 
+image::icons/finder-sidebar.svg[Finder Sidebar]
+
 * image:icons/folder-primary.svg[Primary Folder] Primary Folder: _Show Primary Page Items_
 * image:icons/folder-trashcan.svg[Trashcan Folder] Trashcan Folder: _Show Trashed Page Items_
 
 
 
-=== Additinal Information
+== Additinal Information
 
-==== Ssf2img
+=== Ssf2img
 
-Ssf2img is a support tool for Small Sketch file (SSF). You can convert SSF file into SVG,PNG and PDF on Windows/MacOS/Linux.
+Ssf2img is a command line tool for Small Sketch file (SSF).  +
+You can convert SSF file into SVG,PNG,JPEG and PDF on Windows/MacOS/Linux.
 
 For more details:
 https://github.com/mindboard/ssf2img
