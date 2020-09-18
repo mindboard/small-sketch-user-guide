@@ -53,8 +53,6 @@ This app has two kinds of screen.
 
 image::screenshots/editor-overview.png[alt=Editor, width=600]
 
-This is the main screen for sketching.
-
 When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 
 
@@ -73,7 +71,7 @@ When drawing sketch, use *Pen* , when manipulating them, use *Finger*.
 * image:icons/delete.svg[Delete] Delete Group 
 
 [NOTE]
-A stared group is used as the page thumbnail in file manager.
+A stared group is used as this page thumbnail in file manager.
 
 ==== ActionBar
 
@@ -90,7 +88,7 @@ image::icons/editor-actionbar.svg[Editor Actionbar]
 
 image::icons/pen-and-eraser-toolbar.svg[Pen and Eraser Toolbar]
 
-It's in the top left of screen.
+It's in the top left corner of the screen.
 
 
 [[EditToolbar]]
@@ -98,22 +96,22 @@ It's in the top left of screen.
 
 image::icons/edit-toolbar.svg[Edit Toolbar]
 
-It's in the left bottom of screen. 
+It's in the left bottom corner of the screen. 
 
 * image:icons/undo.svg[Undo]Undo
 * image:icons/redo.svg[Redo]Redo
-* image:icons/delete.svg[Delete]Delete : Delete selected group
+* image:icons/delete.svg[Delete]Delete : Delete a selected group
 * image:icons/group.svg[Group]Group / image:icons/ungroup.svg[Ungroup]Ungroup 
-* image:icons/star.svg[Star]Star : Make group stared
+* image:icons/star.svg[Star]Star : Make a group stared
 
 
 ==== Clipboard Panel
 
-It's in the right bottom.
+It's in the right bottom corner of the screen.
 
 * image:icons/clipboard.svg[Clipboard]Clipboard
 
-Tap the icon and show clipboard panel, and tap again hide it.
+Tap the icon and show clipboard panel, and tap it again hide it.
 
 image::screenshots/clipboard-panel.png[Clipboard Panel]
 
@@ -130,15 +128,11 @@ Lassoing some strokes with finger, a temporary group is created.  +
 And also lassoing some groups ( and some strokes ) with finger, a temporary group's group is created.  +
 It's possible to change a temporary group with a persisitent group with tapping image:icons/group.svg[group] icon on link:#EditToolbar[Edit Toolbar]. 
 
-Instruction:
-
 1. Lasso some strokes and make them temporary group.
 2. Tap image:icons/group.svg[group] icon.
 
 
 ===== Make Ungroup
-
-Instruction:
 
 1. Tap a group with finger and make it selected. 
 2. Tap image:icons/ungroup.svg[ungroup] icon.
@@ -149,8 +143,6 @@ Instruction:
 
 video::videos/move-group-1.mp4[Move Group]
 
-Instruction:
-
 1. Tap a group with finger and make it selected.
 2. Drag it with finger.
 
@@ -160,10 +152,9 @@ Instruction:
 
 video::videos/resize-group-1.mp4[Resize Group]
 
-Instruction:
-
 1. Tap a group with finger and make the group selected.
-2. Drag the resize handle of the group in the right bottom.
+2. Drag a resize handle of the group at the right bottom.
+
 
 [[CopyGroup]]
 ===== Copy Strokes / Copy Group
@@ -172,8 +163,6 @@ video::videos/copy-group-1.mp4[Copy Group]
 
 It's impossible to copy them directly.
 But using with Clipboard Panel, it's possible.
-
-Instruction:
 
 1. Tap image:icons/clipboard.svg[clipboard] icon and clipboard panel is shown.
 2. Tap a group with finger and make it selected. / Lasso strokes and make theme temporary group.
@@ -186,13 +175,12 @@ Instruction:
 
 image::screenshots/finder-overview.png[alt=File Manager, width=600]
 
-This is the file management screen.
 
 ==== Features
 
-* Pin: Keep items to the top
-* Single Tap Item: Select the item
-* Double Tap Item: Open the item
+* Pin: Keep items on top
+* Single Tap Item: Select item
+* Double Tap Item: Open item
 
 
 ==== ActionBar
