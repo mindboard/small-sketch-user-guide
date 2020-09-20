@@ -161,8 +161,7 @@ video::videos/resize-group-1.mp4[Resize Group]
 
 video::videos/copy-group-1.mp4[Copy Group]
 
-It's impossible to copy them directly.
-But using with Clipboard Panel, it's possible.
+There is no way to copy group directly, but using with Clipboard Panel, it's possible.
 
 1. Tap image:icons/clipboard.svg[clipboard] icon and clipboard panel is shown.
 2. Tap a group with finger and make it selected. / Lasso strokes and make theme temporary group.
@@ -202,6 +201,38 @@ image::icons/finder-sidebar.svg[Finder Sidebar]
 * image:icons/folder-primary.svg[Primary Folder] Primary Folder: _Show Primary Page Items_
 * image:icons/folder-trashcan.svg[Trashcan Folder] Trashcan Folder: _Show Trashed Page Items_
 
+
+== Pen Settings
+
+image::screenshots/pen-settings.png[alt=PenSettings, width=600]
+
+You can change pen count to use and each pen color. 
+
+1. Go to link:#FileManager[File Manager].
+2. Tap [Menu - Pen Settings].
+
+
+== Backup and Restore
+
+You can backup and restore your all sketches.
+
+
+=== Export (Backup)
+
+1. Go to link:#FileManager[File Manager].
+2. Tap [Menu - Export all sketches].
+3. Specify a file name to save on Google Drive or some where else cloud drive.
+
+Do not do rotation screen or screen off under exporting.
+
+
+=== Import (Restore)
+
+1. Go to link:#FileManager[File Manager].
+2. Tap [Menu - Import].
+3. Select the file name.
+
+Do not do rotation screen or screen off under importing.
 
 
 == Additinal Information
