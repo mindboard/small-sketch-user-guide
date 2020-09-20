@@ -230,7 +230,7 @@ Do not do rotation screen or screen off under exporting.
 
 1. Go to link:#FileManager[File Manager].
 2. Tap [Menu - Import].
-3. Select the file name.
+3. Select the file.
 
 Do not do rotation screen or screen off under importing.
 
