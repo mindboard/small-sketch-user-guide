@@ -223,7 +223,7 @@ You can backup and restore your all sketches.
 2. Tap [Menu - Export all sketches].
 3. Specify a file name to save on Google Drive or some where else cloud drive.
 
-Do not do rotation screen or screen off under exporting.
+Do not rotate screen under exporting.
 
 
 === Import (Restore)
@@ -232,7 +232,7 @@ Do not do rotation screen or screen off under exporting.
 2. Tap [Menu - Import].
 3. Select the file.
 
-Do not do rotation screen or screen off under importing.
+Do not rotate screen under importing.
 
 
 == Additinal Information
