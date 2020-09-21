@@ -223,16 +223,12 @@ You can backup and restore your all sketches.
 2. Tap [Menu - Export all sketches].
 3. Specify a file name to save on Google Drive or some where else cloud drive.
 
-Do not rotate screen under exporting.
-
 
 === Import (Restore)
 
 1. Go to link:#FileManager[File Manager].
 2. Tap [Menu - Import].
 3. Select the file.
-
-Do not rotate screen under importing.
 
 
 == Additinal Information
