@@ -233,10 +233,24 @@ You can backup and restore your all sketches.
 
 == Additinal Information
 
+=== Ssf2svg
+
+Ssf2svg is a command line file converter tool for Small Sketch file (SSF).
+You can convert SSF file into SVG.
+This tool is written with Golang.
+You can use this tool anywhere where can run golang app such as Windows/macOS/Linux.
+
+For more details:
+https://github.com/mindboard/ssf2svg
+
+
 === Ssf2img
 
 Ssf2img is a command line tool for Small Sketch file (SSF).  +
-You can convert SSF file into SVG,PNG,JPEG and PDF on Windows/MacOS/Linux.
+You can convert SSF file into SVG,PNG,JPEG and PDF.
+This tool is written with Java.
+You can use this tool anywhere where can run java app such as Windows/macOS/Linux.
 
 For more details:
 https://github.com/mindboard/ssf2img
+
